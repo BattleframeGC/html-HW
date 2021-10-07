@@ -14,7 +14,7 @@ body {
     background: linear-gradient(rgb(125, 179, 224), steelblue);
 }
 
-.menu li {
+.menu > li {
     list-style-type: none;
     display: inline; 
     margin-right: 5px;
